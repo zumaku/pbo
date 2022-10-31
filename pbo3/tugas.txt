@@ -1,0 +1,2 @@
+prakikum:
+Membuat program OOP Input Data Mahasiswa dengan Menggunakan Constructur.
