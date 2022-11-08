@@ -1,5 +1,11 @@
 Soal Laporan 4
 
+class mahasiswa:
+    kampus = ''
+    def __init__():
+          self.kampus = 'UIN ALAUDDIN'
+print mahasiswa.kampus
+
 1. Ketik dan jalankan scrip yang berisi class mahasiswa di atas, jelakan script tersebut.
 2. Tambahkan atribut jurusan, angkatan, pada class tersebut kemudian isikan jurusan dan angkatan sesuai dengan jurusan dan angkatan anda pada konstruktor. Bukrikan dengan menggunakan print bahwah atribut tersebut telah masuk ke dalam konstruktor.
 3. Buatlah sebuah class bernama keluarga dengan ketentuan sebagai berikut:
